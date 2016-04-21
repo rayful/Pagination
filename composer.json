@@ -1,0 +1,20 @@
+{
+    "name": "rayful/pagination",
+    "description": "A Library for Pagination, interagted in DB-Manager. Can be extended to change display, can See MorePage Class.",
+    "keyword": ["MongoDB Pagination required."],
+    "authors": [
+        {
+            "name": "Kingmax Yang",
+            "email": "kingmaxyang@gmail.com"
+        }
+    ],
+    "require": {
+        "rayful/url": "^0.1.0"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}

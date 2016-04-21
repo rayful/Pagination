@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "aaf0bd06e0131db4d2ab35e2600749fa",
+    "content-hash": "14a39e32fa17ca2ed1fc0300c5289834",
+    "packages": [
+        {
+            "name": "rayful/url",
+            "version": "0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/rayful/URL.git",
+                "reference": "0aaf9705cc541e9acd11db1a102bacc9e2ccc087"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/rayful/URL/zipball/0aaf9705cc541e9acd11db1a102bacc9e2ccc087",
+                "reference": "0aaf9705cc541e9acd11db1a102bacc9e2ccc087",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kingmax Yang",
+                    "email": "kingmaxyang@gmail.com"
+                }
+            ],
+            "description": "A URL operation Class, including set query, get query, parse query, get domain and so on.",
+            "keywords": [
+                "auto get current URL",
+                "encode full URL",
+                "get URL domain",
+                "get query",
+                "set query",
+                "url"
+            ],
+            "time": "2016-04-21 07:32:11"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
