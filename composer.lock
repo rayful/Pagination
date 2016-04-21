@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "aaf0bd06e0131db4d2ab35e2600749fa",
-    "content-hash": "14a39e32fa17ca2ed1fc0300c5289834",
+    "hash": "8481658ffd2f5c209bd1245ce69f8c9d",
+    "content-hash": "b6e44d6e996d81b4aaf9d02e9a681284",
     "packages": [
         {
             "name": "rayful/url",

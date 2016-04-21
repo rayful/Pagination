@@ -11,10 +11,7 @@
     "require": {
         "rayful/url": "^0.1.0"
     },
-    "repositories": {
-        "packagist": {
-            "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
-        }
+    "autoload": {
+        "psr-4": { "rayful\\Tool\\": "" }
     }
 }
