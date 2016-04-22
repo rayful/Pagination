@@ -4,24 +4,29 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "2434c3812e727123761841e5bdb5f84f",
-    "content-hash": "b6e44d6e996d81b4aaf9d02e9a681284",
+    "hash": "ce42f4938bc3223b1a495e9c8b496d4d",
+    "content-hash": "99ebed1174f06b13318329a03e54f5e9",
     "packages": [
         {
             "name": "rayful/url",
-            "version": "0.1.0",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rayful/URL.git",
-                "reference": "0aaf9705cc541e9acd11db1a102bacc9e2ccc087"
+                "reference": "da13acfef0d208238774fc4d4d316371d9689eb2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rayful/URL/zipball/0aaf9705cc541e9acd11db1a102bacc9e2ccc087",
-                "reference": "0aaf9705cc541e9acd11db1a102bacc9e2ccc087",
+                "url": "https://api.github.com/repos/rayful/URL/zipball/da13acfef0d208238774fc4d4d316371d9689eb2",
+                "reference": "da13acfef0d208238774fc4d4d316371d9689eb2",
                 "shasum": ""
             },
             "type": "library",
+            "autoload": {
+                "classmap": [
+                    "URL.php"
+                ]
+            },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
@@ -41,7 +46,7 @@
                 "set query",
                 "url"
             ],
-            "time": "2016-04-21 07:32:11"
+            "time": "2016-04-22 01:52:14"
         }
     ],
     "packages-dev": [],
