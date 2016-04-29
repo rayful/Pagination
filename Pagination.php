@@ -106,9 +106,7 @@ class Pagination
 
     protected function _setCurrent()
     {
-        $page_request = $_REQUEST[$this->getKey()];
-        $current = $page_request ? intval($page_request) : 1;
-
+        $current = isset($_REQUEST[$this->getKey()]) ? intval($_REQUEST[$this->getKey()]) : 1;
         $this->current = $current;
     }
 
