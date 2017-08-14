@@ -4,21 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "ce42f4938bc3223b1a495e9c8b496d4d",
-    "content-hash": "99ebed1174f06b13318329a03e54f5e9",
+    "content-hash": "c0271e9a6a3a30cc706b1de265b3e3fd",
     "packages": [
         {
             "name": "rayful/url",
-            "version": "1.0.0",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rayful/URL.git",
-                "reference": "da13acfef0d208238774fc4d4d316371d9689eb2"
+                "reference": "cee5a135a91ce7a35ec43fd81c568803728badb9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rayful/URL/zipball/da13acfef0d208238774fc4d4d316371d9689eb2",
-                "reference": "da13acfef0d208238774fc4d4d316371d9689eb2",
+                "url": "https://files.phpcomposer.com/files/rayful/URL/cee5a135a91ce7a35ec43fd81c568803728badb9.zip",
+                "reference": "cee5a135a91ce7a35ec43fd81c568803728badb9",
                 "shasum": ""
             },
             "type": "library",
@@ -46,7 +45,7 @@
                 "set query",
                 "url"
             ],
-            "time": "2016-04-22 01:52:14"
+            "time": "2016-04-29T07:54:04+00:00"
         }
     ],
     "packages-dev": [],
