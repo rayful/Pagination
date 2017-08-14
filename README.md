@@ -1,6 +1,10 @@
 # Pagination
 一个简单通用分页类。包含分页器类（Pagination）及显示类（在View命名空间下，可通过继承ViewBase类进行扩展及自定义显示逻辑及CSS样式）。
 
+# 安装
+```
+composer install rayful/pagination
+```
 # Pagination Interface 接口能力
 ```
 interface PaginationInterface

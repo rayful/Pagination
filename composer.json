@@ -1,6 +1,6 @@
 {
     "name": "rayful/pagination",
-    "description": "A Library for Pagination, interagted in DB-Manager. Can be extended to change display, can See MorePage Class.",
+    "description": "A Library for Pagination, interagted in DB-Manager. Can be extended to change display, can See ViewBase Class.",
     "keyword": ["MongoDB Pagination required."],
     "authors": [
         {
