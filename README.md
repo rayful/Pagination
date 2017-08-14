@@ -85,11 +85,13 @@ $pagination = new \rayful\Tool\Pagination\Pagination($count, $limit);
 ```
 
 ## 界面类说明
-* Bootstrap3 命名空间：\rayful\Tool\Pagination\Bootstrap3\
-** AlignedViewCN: [https://getbootstrap.com/docs/3.3/components/#pagination-pager]
-** ListingView:[https://getbootstrap.com/docs/3.3/components/#pagination-default]
-** SimpleViewEN/SimpleViewCN:[https://getbootstrap.com/docs/3.3/components/#pagination-pager]
-* Bootstrap4 命名空间：\rayful\Tool\Pagination\Bootstrap4\
-** ListingView:[https://getbootstrap.com/docs/4.0/components/pagination/]
-** SimpleViewEN/SimpleViewCN:样式请见test文件
-* 自定义：请扩展ViewBase类，实现display()方法，可自定义显示逻辑及CSS和HTML样式。
+### Bootstrap3 命名空间：\rayful\Tool\Pagination\Bootstrap3\
+* AlignedViewCN: [https://getbootstrap.com/docs/3.3/components/#pagination-pager]
+* ListingView:[https://getbootstrap.com/docs/3.3/components/#pagination-default]
+* SimpleViewEN/SimpleViewCN:[https://getbootstrap.com/docs/3.3/components/#pagination-pager]
+
+### Bootstrap4 命名空间：\rayful\Tool\Pagination\Bootstrap4\
+* ListingView:[https://getbootstrap.com/docs/4.0/components/pagination/]
+* SimpleViewEN/SimpleViewCN:样式请见test文件
+
+### 自定义：请扩展ViewBase类，实现display()方法，可自定义显示逻辑及CSS和HTML样式。
