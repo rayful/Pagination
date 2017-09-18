@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "rayful/url": "^1.0.2"
+        "rayful/url": "^1.1"
     },
     "autoload": {
         "psr-4": { "rayful\\Tool\\Pagination\\": "src" }
